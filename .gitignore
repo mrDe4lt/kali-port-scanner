@@ -1,0 +1,35 @@
+# Scan results directories
+port_scan_results_*/
+advanced_scan_*/
+
+# Backup files
+*.backup
+*.bak
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Logs
+*.log
+
+# Temporary files
+.tmp/
+temp/
+*.temp
