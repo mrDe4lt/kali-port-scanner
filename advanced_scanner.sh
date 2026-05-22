@@ -200,8 +200,8 @@ main() {
     echo -e "${CYAN}"
     cat << "EOF"
 ╔════════════════════════════════════════════════════════════════════════════╗
-║      ADVANCED PORT VULNERABILITY SCANNER v2.0                 ║
-║            Enhanced CVE & Exploit Analysis                    ║
+║      ADVANCED PORT VULNERABILITY SCANNER v2.0                 ║ AUTHOR
+║            Enhanced CVE & Exploit Analysis                    ║ Mr D4LT
 ╚════════════════════════════════════════════════════════════════════════════╝
 EOF
     echo -e "${NC}"
