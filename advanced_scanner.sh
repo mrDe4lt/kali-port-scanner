@@ -3,7 +3,7 @@
 ################################################################################
 # Advanced Port Vulnerability Scanner with CVE/Exploit Analysis
 # Description: Extended vulnerability detection with database searches
-# Author: Security Team
+# Author: Mr D4LT
 # Date: 2026-05-16
 ################################################################################
 
